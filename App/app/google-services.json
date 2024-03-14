@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585199505610",
+    "project_id": "dietbuddy-e61bd",
+    "storage_bucket": "dietbuddy-e61bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585199505610:android:6ac973a721438db25e2433",
+        "android_client_info": {
+          "package_name": "com.innovation.dietbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585199505610-3s3i08hj69t66ltrrueb560d8c6ng7b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovation.dietbuddy",
+            "certificate_hash": "1a5e7e5b0f4f1a3337877f6425882bed39538134"
+          }
+        },
+        {
+          "client_id": "585199505610-u1prk77c3lfiea3q1tvfbn9kl7s8ta1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovation.dietbuddy",
+            "certificate_hash": "b679c8449ff223446a0e14fa5eae7e1eb02be5e8"
+          }
+        },
+        {
+          "client_id": "585199505610-al850pr5p73vk8as5lm20174nv8s605r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9hqbPjvyln84pTGS9GjFtnwgH8VkU6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585199505610-al850pr5p73vk8as5lm20174nv8s605r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

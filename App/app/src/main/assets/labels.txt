@@ -1,0 +1,18 @@
+0 Tomato
+1 Capsicum
+2 Radish
+3 Carrot
+4 Apple
+5 Banana
+6 Burger
+7 Dal
+8 Dum Aloo
+9 French Fries
+10 Lime
+11 Mango
+12 Milk
+13 Pav Bhaji
+14 Pizza
+15 Rice
+16 Roti
+17 Sandwich
